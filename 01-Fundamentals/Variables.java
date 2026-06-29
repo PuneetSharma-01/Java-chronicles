@@ -1,5 +1,5 @@
 
-public class B_Variables {
+public class Variables {
 
    static String name="Puneet";
    static int age=20;

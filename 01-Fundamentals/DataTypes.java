@@ -1,4 +1,4 @@
-public class C_DataTypes {
+public class DataTypes {
 
     static int num1=10;
     static double num2=20.0;

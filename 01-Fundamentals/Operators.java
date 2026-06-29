@@ -1,5 +1,5 @@
 
-public class E_Operators {
+public class Operators {
     static int num1=2,num2=5;
 
     public static void main(String[]args)
