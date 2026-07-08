@@ -1,4 +1,4 @@
-# ☕Java-chronicles
+# ☕Java Chronicles
 > Documenting my Core Java learning journey with daily practice programs, concepts, and mini projects.
 
 ---
