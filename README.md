@@ -15,8 +15,9 @@ This repository contains my Core Java learning progress from fundamentals to adv
 - ⏳ 04 - Arrays
 - ⏳ 05 - OOP
 - ⏳ 06 - Exception Handling
-- ⏳ 07 - Collections
-- ⏳ 08 - Multithreading
+- ⏳ 07 - Multithreading
+- ⏳ 08 - Inner Classes
+- ⏳ 09 - Collections
 
 ---
 
