@@ -8,7 +8,7 @@ public class ArrayDeclarationAndInitialization {
     arr[3]=40;
     arr[4]=50;
     System.out.println("Array initialization successful");
-    System.out.println(arr.length);//just fixing the warning of unused variable arr
+    System.out.println(arr.length);//just fixing the warning of unused variable array
     }
     
 }
