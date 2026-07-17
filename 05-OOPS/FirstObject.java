@@ -6,7 +6,7 @@ public class FirstObject {
     public static void main(String[] args) {
         {
             FirstObject Obj= new FirstObject();
-            Obj.name="PUNEET SHARMA";
+            Obj.name="RIDHITA SHARMA";
             System.out.println(Obj.getName());
             
 
