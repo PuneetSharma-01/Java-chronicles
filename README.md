@@ -12,7 +12,7 @@ This repository contains my Core Java learning progress from fundamentals to adv
 - ✅ 01 - Fundamentals
 - ✅ 02 - Operators & Assignments
 - ✅ 03 - Control Flow
-- ⏳ 04 - Arrays
+- ✅ 04 - Arrays
 - ⏳ 05 - OOP
 - ⏳ 06 - Exception Handling
 - ⏳ 07 - Multithreading
