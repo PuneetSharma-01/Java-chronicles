@@ -20,7 +20,7 @@ This repository contains my Core Java learning progress from fundamentals to adv
 - ⏳ 09 - Java Lang Package
   ⏳ 10 - File IO Package
   ⏳ 11 - Serialization
-- ⏳ 12 - Collections
+- ⏳ 12 - Regular Exception
 
 ---
 
