@@ -18,7 +18,8 @@ This repository contains my Core Java learning progress from fundamentals to adv
 - ⏳ 07 - Multithreading
 - ⏳ 08 - Inner Classes
 - ⏳ 09 - Java Lang Package
-- ⏳ 10 - Collections
+  ⏳ 10 - File IO Package
+- ⏳ 11 - Collections
 
 ---
 
