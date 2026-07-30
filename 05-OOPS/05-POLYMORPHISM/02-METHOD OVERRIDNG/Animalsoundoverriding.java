@@ -7,6 +7,7 @@ class Animal
 }
 class Dog extends Animal
 {
+    @Override // just because of compiler for not giving any agrument sytanx warning 
      public void getsound()
     {
       System.out.println("Dog is Barking");
