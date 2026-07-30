@@ -19,17 +19,15 @@ class school {
         return userid;
     }
 }
-class students extends school 
-{
- private int rollno;
+class students extends school {
  public int getrollno()
  {
     return 056;
  }
 }
+
 class teachers extends school
 {
- private int age;
  public int getage()
  {
     return 27;
