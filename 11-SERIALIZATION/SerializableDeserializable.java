@@ -2,7 +2,7 @@ import java.io.*;
 class Account implements Serializable
 {
     int num1=10;
-    int num2=20;
+    int num2=40;
 }
 public class SerializableDeserializable
 {
