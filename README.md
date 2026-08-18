@@ -14,7 +14,7 @@ This repository contains my Core Java learning progress from fundamentals to adv
 - ✅ 03 - Control Flow
 - ✅ 04 - Arrays
 - ✅ 05 - OOPS
-- ⏳ 06 - Exception Handling
+- ✅ 06 - Exception Handling
 - ⏳ 07 - Multithreading
 - ⏳ 08 - Inner Classes
 - ⏳ 09 - Java Lang Package 
