@@ -1,7 +1,7 @@
 import java.io.*;
 class Account implements Serializable
 {
-   transient int num1=10;
+   transient int num11=10;
     int num2=20;
 }
 public class TransientkeywordSerialization
@@ -23,7 +23,7 @@ public class TransientkeywordSerialization
         Account a2= (Account)ois.readObject();
 
         System.out.println("Deserialization Ended");
-        System.out.println(a2.num1+"...."+a2.num2);
+        System.out.println(a2.num11+"...."+a2.num2);
 
         ois.close();
         fis.close();
