@@ -1,8 +1,8 @@
 import java.io.*;
 class Account implements Serializable
 {
-    int num1=100;
-    int num2=200;
+    int num1=1000;
+    int num2=2000;
 }
 public class SerializableDeserializable
 {
