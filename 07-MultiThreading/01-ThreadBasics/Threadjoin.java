@@ -4,7 +4,7 @@ class MyThread extends Thread {
     {
         for(int i=0;i<2;i++)
         {
-            System.out.println("Singinggggggggg");
+            System.out.println("Singing");
         }
     }
 }
