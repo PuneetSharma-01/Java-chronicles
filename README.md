@@ -16,7 +16,7 @@ This repository contains my Core Java learning progress from fundamentals to adv
 - ✅ 05 - OOPS
 - ✅ 06 - Exception Handling
 - ✅ 07 - Multithreading
-- ⏳ 08 - Inner Classes
+- ✅ 08 - Inner Classes
 - ⏳ 09 - Java Lang Package 
 - ⏳ 10 - File-IO
 - ⏳ 11 - Serialization
